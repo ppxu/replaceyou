@@ -5,7 +5,7 @@
   },
   "name": "replaceyou",
   "description": "Node commandline app to replace selected text in the file.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "url": ""
   },
@@ -21,6 +21,6 @@
   },
   "readme": "ERROR: No README.md file found!",
   "readmeFilename": "README.md",
-  "_id": "replaceyou@0.0.5",
+  "_id": "replaceyou@0.0.6",
   "_from": "replaceyou"
 }
