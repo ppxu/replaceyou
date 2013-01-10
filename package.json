@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "ppxu",
+    "email": "xyang0110@126.com"
+  },
+  "name": "replaceyou",
+  "description": "Node commandline app to replace selected text in the file.",
+  "version": "0.0.5",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "bin": {
+    "replaceyou": "./bin/replaceyou"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readme": "ERROR: No README.md file found!",
+  "readmeFilename": "README.md",
+  "_id": "replaceyou@0.0.5",
+  "_from": "replaceyou"
+}
