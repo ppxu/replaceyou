@@ -1,6 +1,6 @@
 # replaceyou
 
-#### Node commandline app to replace selected text in the file
+#### Node commandline app to replace selected word in txt file
 
 ### Install
 

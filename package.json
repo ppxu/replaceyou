@@ -4,10 +4,10 @@
     "email": "xyang0110@126.com"
   },
   "name": "replaceyou",
-  "description": "Node commandline app to replace selected text in the file.",
-  "version": "0.0.6",
+  "description": "Node commandline app to replace selected word in txt file.",
+  "version": "0.0.9",
   "repository": {
-    "url": ""
+    "url": "https://github.com/ppxu/replaceyou"
   },
   "main": "./lib/main",
   "bin": {
@@ -21,6 +21,6 @@
   },
   "readme": "ERROR: No README.md file found!",
   "readmeFilename": "README.md",
-  "_id": "replaceyou@0.0.6",
+  "_id": "replaceyou@0.0.9",
   "_from": "replaceyou"
 }
